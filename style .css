@@ -30,7 +30,7 @@ body {
     right: 20px;
     padding: 12px 15px;
     border: none;
-    background-color: #1087FF;
+    background-color: #b8cbdf;
     color: #fff;
     border-radius: 30px;
     font-size: 16px;
@@ -40,7 +40,7 @@ body {
 }
 
 #chatbot-toggle-btn:hover {
-    background-color: #0074CC;
+    background-color: #93afc5;
 }
 
 .chatbot-popup {
@@ -57,7 +57,7 @@ body {
 }
 
 .chat-header {
-    background-color: #1087FF;
+    background-color: #58be88;
     color: #fff;
     padding: 15px 20px;
     border-top-left-radius: 15px;
@@ -101,7 +101,7 @@ body {
     font-family: "Poppins", sans-serif;
     padding: 10px 20px;
     border: none;
-    background-color: #1087FF;
+    background-color: #63c189;
     color: #fff;
     border-radius: 12px;
     margin-left: 10px;
